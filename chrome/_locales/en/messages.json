@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "Recorder",
+    "description": "Extension Name"
+  },
+  "shortAppName": {
+    "message": "Recorder",
+    "description": "Extension's short Name"
+  },
+  "appDescription": {
+    "message": "Recorder",
+    "description": "Extension Description"
+  },
+  "mainAppName": {
+    "message": "Recorder",
+    "description": "Main Application, to which this extension is supporting"
+  }
+}
