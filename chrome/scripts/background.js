@@ -168,4 +168,5 @@ chrome.extension.onMessage.addListener(function(e, t, n) {
       FilterConfig = [JSON.parse(JSON.stringify(defaultConfig))];
     }
   }
+  console.log('filter config is :', FilterConfig);
 });
